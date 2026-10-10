@@ -1,0 +1,14 @@
+/build/
+/build-host/
+*.elf
+*.nro
+*.nacp
+*.map
+*.bsa
+*.esm
+*.esp
+.DS_Store
+__pycache__/
+*.pyc
+newvegas-relatorio.json
+scene.json
